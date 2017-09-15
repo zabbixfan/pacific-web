@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../celeryProject/.idea/celeryProject.iml" filepath="$PROJECT_DIR$/../celeryProject/.idea/celeryProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dns_frontend.iml" filepath="$PROJECT_DIR$/.idea/dns_frontend.iml" />
+    </modules>
+  </component>
+</project>

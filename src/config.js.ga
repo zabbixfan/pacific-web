@@ -1,0 +1,27 @@
+export default {
+    localHost: 'http://pacific.apitops.com',
+    authServerHost: 'http://alopex.apitops.com',
+    appid: 'd4e274962a2011e7bd5a00163e133b79',
+    apiHost: 'http://pacific-api.apitops.com',
+    appName: 'Pacific-Opsmanager',
+    domain: [
+    {
+      label: 'apitops.com',
+      value: 'apitops.com'
+    },
+    {
+      label: 'tops001.com',
+      value: 'tops001.com'
+    }
+  ],
+    type: [
+    {
+      label: 'A',
+      value: 'A'
+    },
+    {
+      label: 'CNAME',
+      value: 'CNAME'
+    }
+      ]
+}
